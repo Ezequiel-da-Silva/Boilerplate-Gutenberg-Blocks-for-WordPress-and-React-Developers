@@ -18,3 +18,31 @@ body {
 .has-green-to-yellow-gradient-background {
     background: linear-gradient(135deg,#3ce406 0%,#d6e029 100%);
 }
+
+.has-strong-magenta-background-color {
+	background-color: #A156B4;
+}
+
+.has-strong-magenta-color {
+	color: #A156B4;
+}
+
+.has-very-light-gray-background-color {
+	background-color: #EEE;
+}
+
+.has-very-light-gray-color {
+	color: #EEE;
+}
+
+.has-small-font-size {
+	font-size: 12px;
+}
+
+.has-regular-font-size {
+	font-size: 16px;
+}
+
+.has-large-font-size {
+	font-size: 36px !important;
+}
